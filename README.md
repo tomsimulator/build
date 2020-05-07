@@ -1,2 +1,2 @@
 # build
-Tales of Mana Simulator
+Trials of Mana Simulator
